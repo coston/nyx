@@ -1,0 +1,21 @@
+{
+    "name": "nyx",
+    "displayName": "Nyx",
+    "description": "Dark as night, with exceptional power and beauty",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nyx",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nyx-color-theme.json"
+            }
+        ]
+    }
+}
