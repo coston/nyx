@@ -4,7 +4,7 @@
   "description": "Dark as night, with exceptional power and beauty",
   "publisher": "coston",
   "author": "Coston Perkins <costonperkins@me.com> (http://twitter.com/costonxo)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "url": "https://github.com/coston/nyx",
     "type": "git"
@@ -29,11 +29,6 @@
         "path": "./themes/Nyx-color-theme.json"
       }
     ]
-  },
-  "standard-version": {
-    "skip": {
-      "commit": true
-    }
   },
   "devDependencies": {
     "standard-version": "^7.0.0"
