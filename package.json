@@ -13,7 +13,7 @@
     "url": "https://github.com/coston/nyx/issues"
   },
   "scripts": {
-    "release": "standard-version && vsce package"
+    "release": "standard-version && vsce package && vsce publish"
   },
   "engines": {
     "vscode": "^1.37.0"
